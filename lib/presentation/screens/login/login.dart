@@ -114,7 +114,7 @@ class LoginButtons extends StatelessWidget {
           decoration: BoxDecoration(
             boxShadow: [
               BoxShadow(
-                color: Colors.lightBlue.withOpacity(0.5),
+                color: Colors.white.withOpacity(0.5),
                 spreadRadius: 1,
                 blurRadius: 5,
                 // offset: Offset(0, 5),
@@ -137,7 +137,7 @@ class LoginButtons extends StatelessWidget {
           decoration: BoxDecoration(
             boxShadow: [
               BoxShadow(
-                color: Colors.lightBlue.withOpacity(0.5),
+                color: Colors.white.withOpacity(0.5),
                 spreadRadius: 1,
                 blurRadius: 5,
                 // offset: Offset(0, 5),
